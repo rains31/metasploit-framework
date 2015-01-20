@@ -32,7 +32,7 @@ PATH
       pcaprub
 
 GEM
-  remote: https://rubygems.org/
+  remote: http://ruby.taobao.org/
   specs:
     actionmailer (3.2.21)
       actionpack (= 3.2.21)
